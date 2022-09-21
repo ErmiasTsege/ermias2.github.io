@@ -542,6 +542,10 @@ button:focus {
 .work_img{
     border-radius: 50%;
 }
+.work_img_profile
+{
+    border-radius: 50%;
+}
 .work_box {
     overflow: hidden;
     position: relative;
